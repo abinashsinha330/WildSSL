@@ -1,2 +1,5 @@
 # WildSSL
-Wildlife Classification using Self-Supervised Learning
+# Wildlife Classification using Self-Supervised Learning
+
+
+In recent years, automated surveillance systems called camera traps have helped conservationists study and monitor a wide range of ecologies while limiting human interference. Camera traps are triggered by motion or heat, and passively record the behavior of species in the area without significantly disturbing their natural tendencies. However, camera traps also generate a vast amount of data that quickly exceeds the capacity of humans to sift through. That’s where machine learning can help. Advances in computer vision can help automate tasks like species detection and classification, localization, depth estimation, and individual identification so humans can more effectively learn from and protect these ecologies. In particular, the paradigm of self-supervised learning could prove beneficial here. It makes life easier when dealing with a large amount of unlabeled data. It involves getting better visual features using unsupervised pre-training followed by supervised fine-tuning on the small set of labelled images. The dataset here is taken from the DrivenData. DrivenData brings the transformative power of data science to organizations attacking our world’s greatest challenges.
